@@ -1,4 +1,4 @@
-# Simple calculators with node #
+# Simple calculators with Node.js #
 Currently learning the basics of Node.js w/ Express.js by making a simple calculators
 ## How to run project (terminal commands) ##
 1. install packages by running `npm install`
