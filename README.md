@@ -3,7 +3,7 @@ Simple static website that implements an adding and BMI calculator.
 ## Learned ##
 * Basics of Node.JS
 * Basics of Express.JS
-## How to run project (terminal commands) ##
+## Instructions to run ##
 1. Install packages by running `npm install`
 2. Run local server by entering `nodemon calculator.js` || `node calculator.js`
 ## Different directories ##
