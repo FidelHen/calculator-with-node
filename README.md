@@ -1,9 +1,11 @@
-# Simple calculators with Node.js #
-Currently learning the basics of Node.js w/ Express.js by making a simple calculators
+# Calculators with Node.js #
+Simple static website that implements an adding and BMI calculator.
+## Learned ##
+* Basics of Node.JS
+* Basics of Express.JS
 ## How to run project (terminal commands) ##
 1. Install packages by running `npm install`
 2. Run local server by entering `nodemon calculator.js` || `node calculator.js`
 ## Different directories ##
-My goal for the project was to familiarize myself with routes and passing information through HTML -> JS
-* Url for addition calculator `localhost:3000/`
-* Url for bmi calculator `localhost:3000/bmicalculator`
+* Addition calculator `localhost:3000/`
+* Bmi calculator `localhost:3000/bmicalculator`
