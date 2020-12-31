@@ -1,5 +1,5 @@
 # Calculators with Node.js #
-Simple static website that implements an adding and BMI calculator.
+A simple static website that implements an adding and BMI calculator.
 ## Learned ##
 * Basics of Node.JS
 * Basics of Express.JS
